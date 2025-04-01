@@ -209,7 +209,7 @@
 | Lightning Calculator 🧠 |  |  |
 | Longevity 💪 |  |  |
 |  |  | Luck 🧠 |
-|  |  | Magery 🧠 ⚡ |
+| Magery 🧠 ⚡ |  |  |
 |  |  | Magic Resistance 🧠 ⚡ |
 |  |  | Mana Damper 🧠 ⚡ |
 |  |  | Mana Enhancer 🧠 ⚡ |
