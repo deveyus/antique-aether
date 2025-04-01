@@ -60,6 +60,9 @@
         *   *Consider:* Sometimes, weapons are unavailable or impractical. Knowing how to fight unarmed can provide a vital edge in a brawl or self-defense situation. A tough enforcer or a disciplined martial artist will be skilled in unarmed combat.
     *   **Utility Combat (Forced Entry, Holdout, Judo/Wrestling, Throwing)**
         *   *Consider:* These skills offer non-lethal or tactical advantages in combat. Forced Entry allows you to breach defenses, Holdout lets you conceal weapons, Judo/Wrestling provides grappling options, and Throwing can disable opponents or create distractions. A sneaky operative or a resourceful tactician will utilize these skills.
+ *   **Vacuum Suit**
+        *   *Consider:* In the vacuum of space, on toxic worlds, or within hazardous ruins, a vacuum suit is your lifeline. Knowing how to operate and maintain it is essential for survival. A spacefaring explorer, a salvage operator, or anyone working in dangerous environments will need this skill.
+
 *   **Drones:** Complexity 3 Drone software + 25% cost mod to make equipment remotely operable.
 *   **Advantage Modifications:**
     *   Extended Lifespan: Max 2 levels.
@@ -311,6 +314,9 @@
 |  |  | Walk on Liquid 💪 👽 |
 |  |  | Warp 🧠 ⚡ |
 |  | Wealth |  |
+| Weapon Master 🧠 |  |  |
+|  | Wild Talent 🧠 ⚡ |  |
+|  | Zeroed 🤝 |  |
 | Weapon Master 🧠 |  |  |
 |  | Wild Talent 🧠 ⚡ |  |
 |  | Zeroed 🤝 |  |
