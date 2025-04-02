@@ -101,6 +101,19 @@
 
 *   TL10 medical technology performs wonders, but it **is not** always available, affordable, or fast enough. Characters operating in the recovery era should prioritize *not getting hit* in the first place. Invest points in active defenses (Dodge, Parry, Block) and acquire appropriate passive protection (Armor). Relying solely on toughness or hoping the medic can fix everything later is a risky strategy.
 
+## **Combat Philosophy: A Little Goes a Long Way**
+
+* A single point in health (HT) goes a long way in keeping your character from dying or suffering ill-effects.  You should deeply consider raising this to 11 for any character who would be any kind of adventurerous type, and doesn't explicitly conflict with your character concept.
+
+## **Combat Philosophy: Keys to Success**
+
+*   **Weapon Master:** At 20-45 points depending on the weapon group, not only does this ability let you specialize, but it gives you +1 to +2 per die of basic damage, *greatly increasing damage output with every successful hit*, it also halves the penalty for rapid strike! The lower penalty is key to quickly defeating foes, and increasing your overall safety.
+*   **Trained by a Master:** At 30 points, a significant investment this gives you half the penalty for rapid strike. *Importantly though is it's a pre-requisite for skills like Power Blow that make you an even more dangerous combatant!*
+*   **Combat Reflexes:** At 15 points, this inexpensive advantage makes you far less likely to freeze at the start of combat. *Initiative is paramount and not freezing can allow you to act before the opposition!*
+*   **High Pain Threshold:** At 10 points, you never suffer a shock penalty. *While those without it will be stunned at a hit, a trained combatant can shrug off small arms fire with little fear!* it also provides a +3 to HT rolls to avoid knockdown and stunning, meaning it often takes a critical or targeted shot to really hurt you.
+*   **Combat Reflexes and knowing when to 'tactical retreat':** Combat Reflexes enhances your initiative and makes you harder to surprise, while knowing when to disengage allows you to avoid unfavorable engagements and reposition for a more advantageous attack.
+
+
 ## **Advantage/Disadvantage List**
 
 ***This list provides a baseline. Psionic advantages are Denied unless specifically re-flavored as magical effects with GM permission (use "Ask" traits like Oracle, Precognition, Wild Talent, etc., or Unusual Background). Exotic/High-Tech advantages are Allowed or Ask as listed below. GM discretion applies to edge cases or unlisted traits.***
