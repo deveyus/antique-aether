@@ -23,7 +23,8 @@ jobs:
         if: success()
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
         run: |
-          curl -H "Content-Type: application/json" -d '{
-            "content": "There has been an update to the documents! \n \n https://deveyus.github.io/antique-aether/AntiqueAetherNotes"
-          }' "$DISCORD_WEBHOOK"
+          curl -H "Content-Type: application/json" -d "{
+            \"content\": \"There has been an update to the documents!\\n\\n**Notes:**\\n${{ env.COMMIT_MESSAGE }}\\n\\nhttps://deveyus.github.io/antique-aether/AntiqueAetherNotes\"
+          }" "$DISCORD_WEBHOOK"
