@@ -51,5 +51,5 @@ jobs:
           COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
         run: |
           curl -H "Content-Type: application/json" -d "{
-            \"content\": \"There has been an update to the documents!\\n\\n**Notes:**\\n${{ env.COMMIT_MESSAGE }}\\n\\nhttps://deveyus.github.io/antique-aether/AntiqueAetherNotes\"
+            \"content\": \"**Changes:**\\n${{ env.COMMIT_MESSAGE }}\\n\\nhttps://deveyus.github.io/antique-aether/AntiqueAetherNotes\"
           }" "$DISCORD_WEBHOOK"
