@@ -10,6 +10,8 @@
   * GURPS High-Tech
   * GURPS Magic
   * GURPS Martial Arts
+  * GURPS Tactical Shooting
+  * GURPS Ultra-Tech
 * **Timeline:** ~150 years after the collapse of a large human empire.
 * **State of Humanity:** Recovering and expanding from isolated pockets, primarily former agriworlds that maintained population density. General tech level has fallen, but some areas are regaining TL10 capabilities.  
 * **Key Tech Constraint:** No sentient AI. Computer technology peaks around the level of the computers seen in Star Trek (highly capable, conversational interface, but not self-aware).  
